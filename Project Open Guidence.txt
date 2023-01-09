@@ -1,0 +1,9 @@
+Database Name-scandiweb 
+Import the scandiweb.sql file after creating the MYSQL Database
+
+Databse Username-root
+Password=""(Null)
+
+If your Mysql has database and the password change the username and the password 'classes' folder and 'Database.php' file
+
+The Index Page is at the beggining
